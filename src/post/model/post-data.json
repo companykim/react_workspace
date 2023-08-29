@@ -1,0 +1,34 @@
+{
+    "meta":[
+        {"propName":"title", "propCaption":"제목"},
+        {"propName":"likeCnt", "propCaption":"좋아요"}],
+    "posts":[
+        {
+            "id":"gbjh",
+            "title": "고양이 키우기",
+            "content":"삼일에 한번씩은 밥주기",
+            "color":"#00c4e2",
+            "likeCnt":876
+        },
+        {
+            "id":"gbj2",
+            "title": "샴고양이 키우기",
+            "content":"삼일에 한번씩은 밥주기",
+            "color":"#00c4e2"
+        },
+        {
+            "id":"gbj3",
+            "title": "여우 키우기",
+            "likeCnt":373,
+            "content":"삼일에 한번씩은 밥주기",
+            "color":"#00c4e2"
+        },
+        {
+            "likeCnt":33,
+            "id":"g4jh",
+            "title": "강아지 키우기",
+            "content":"옆에서 자는 것",
+            "color":"#26ac56"
+        }
+    ]
+}
